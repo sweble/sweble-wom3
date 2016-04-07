@@ -1,3 +1,0 @@
-<span style="not-my-style">Bold</span>
-
-<span &me-garbage />
